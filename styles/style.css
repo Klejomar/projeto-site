@@ -16,3 +16,7 @@ main {
 img.lado {
     float: right;
 }
+img {
+    width: min-content;
+    height: min-content;
+}
