@@ -14,9 +14,11 @@ main {
     box-shadow: 3px 3px 5px black;
 }
 img {
-    max-width: 10%;
-    height: auto;
-}
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
 img.lado {
     float: right;
 }
