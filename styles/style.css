@@ -17,6 +17,6 @@ img.lado {
     float: right;
 }
 img {
-    width: 100px;
-    height: 100px;
+    max-width: 10%;
+    height: auto;
 }
